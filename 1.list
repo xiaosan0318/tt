@@ -1,0 +1,10 @@
+# NAME: TikTokFen
+
+DOMAIN,p16-tiktokcdn-com.akamaized.net
+DOMAIN,v16-webapp-prime.us.tiktok.com
+DOMAIN-KEYWORD,-tiktokcdn-com
+DOMAIN-SUFFIX,muscdn.com
+DOMAIN-SUFFIX,ttwstatic.com
+DOMAIN-SUFFIX,tiktokcdn.com
+DOMAIN-SUFFIX,tiktokcdn-us.com
+USER-AGENT,TikTok*
